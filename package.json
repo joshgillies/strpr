@@ -1,0 +1,29 @@
+{
+  "name": "strpr",
+  "version": "0.0.0",
+  "description": "A simple node module that takes string input and strips it of whitespace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshgillies/strpr.git"
+  },
+  "keywords": [
+    "string",
+    "manipulation",
+    "whitespace",
+    "white",
+    "space",
+    "helper"
+  ],
+  "author": "Josh Gillies (contact@joshgilli.es)",
+  "license": "MIT",
+  "gitHead": "069fae44158ecb0628819bd5d824fdfaf97996d2",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "loopr": "0.0.0",
+    "nwlnr": "0.0.0"
+  }
+}
